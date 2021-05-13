@@ -4,7 +4,8 @@ operators = {
     'x': operator.mul,
     '+': operator.add,
     '-': operator.sub,
-    '/': operator.truediv
+    '/': operator.truediv,
+    '^': operator.pow,
 }
 
 def calculate(operator: str, first_operand: int, second_operand: int):
