@@ -1,0 +1,1 @@
+Open Exercise.py in visual studio code and pick which function to run under the if name check
